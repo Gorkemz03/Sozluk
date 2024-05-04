@@ -16,8 +16,8 @@ Sqlite: Kelimeleri içeren veritabanıdır.
 
 ![Screenshot11](https://github.com/Gorkemz03/Sozluk/assets/91285958/9066fb10-20f8-4eec-9a56-81231f2a51ae)
 
+![Screenshot2 (1)](https://github.com/Gorkemz03/Sozluk/assets/91285958/6277dbe9-2675-4e4b-b7e1-d2f88ae0f98f)
 
-![Screenshot2](https://github.com/Gorkemz03/Sozluk/assets/91285958/9e8ee1c6-70aa-478c-ae23-e37905056348)
 
 
 
