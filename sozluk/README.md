@@ -1,16 +1,23 @@
-# sozluk
+# Sözlük Uygulaması
 
-A new Flutter project.
+Sözlük Uygulaması, flutter'ı daha iyi anlamak amacıyla geliştirilmiş mini bir sözlük uygulaması.
 
-## Getting Started
+# Genel Bakış
 
-This project is a starting point for a Flutter application.
+Kullanıcı bulmak istediği kelimeyi arama butonu ile filtreleyerek bulabilir.
 
-A few resources to get you started if this is your first Flutter project:
+# Özellikler
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Flutter: Flutter ile geliştirilmiştir.
+Listview: Kelimeleri dinamik bir liste şeklinde gösterilmesini sağlar.
+Sqlite: Kelimeleri içeren veritabanıdır.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Ekran Görüntüleri
+
+![Screenshot1](https://github.com/Gorkemz03/Sozluk/assets/91285958/ff079ba4-631b-48c4-a583-0084d1c7c65e)
+
+![Screenshot2](https://github.com/Gorkemz03/Sozluk/assets/91285958/9e8ee1c6-70aa-478c-ae23-e37905056348)
+
+
+
+
