@@ -14,7 +14,8 @@ Sqlite: Kelimeleri içeren veritabanıdır.
 
 # Ekran Görüntüleri
 
-![Screenshot1](https://github.com/Gorkemz03/Sozluk/assets/91285958/ff079ba4-631b-48c4-a583-0084d1c7c65e)
+![Screenshot11](https://github.com/Gorkemz03/Sozluk/assets/91285958/9066fb10-20f8-4eec-9a56-81231f2a51ae)
+
 
 ![Screenshot2](https://github.com/Gorkemz03/Sozluk/assets/91285958/9e8ee1c6-70aa-478c-ae23-e37905056348)
 
