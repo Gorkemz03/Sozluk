@@ -8,8 +8,10 @@ Kullanıcı bulmak istediği kelimeyi arama butonu ile filtreleyerek bulabilir.
 
 # Özellikler
 
-Flutter: Flutter ile geliştirilmiştir./n
+Flutter: Flutter ile geliştirilmiştir.
+
 Listview: Kelimeleri dinamik bir liste şeklinde gösterilmesini sağlar.
+
 Sqlite: Kelimeleri içeren veritabanıdır.
 
 # Ekran Görüntüleri
